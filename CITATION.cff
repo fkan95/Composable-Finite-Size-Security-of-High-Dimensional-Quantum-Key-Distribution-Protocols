@@ -1,10 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-message: "In case you need to refer to the dataset provided here, please cite:"
+title: >-
+  Composable-Finite-Size-Security-of-High-Dimensional-Quantum-Key-Distribution-Protocols
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
 authors:
-  - family-names: Kanitschar
-    given-names: Florian
-    orcid: https://orcid.org/0000-0002-9638-5691
-title: "Data for: Composable-Finite-Size-Security-of-High-Dimensional-Quantum-Key-Distribution-Protocols"
+  - given-names: Florian
+    family-names: Kanitschar
+    affiliation: TU Wien
+    orcid: 'https://orcid.org/0000-0002-9638-5691'
 identifiers:
-  - type: doi
-date-released: 2025-10-22
+  - type: url
+    value: 'https://arxiv.org/abs/2505.03874'
+    description: arXiv
+repository: >-
+  https://github.com/fkan95/Composable-Finite-Size-Security-of-High-Dimensional-Quantum-Key-Distribution-Protocols.git
+license: CC-BY-3.0
+version: '2.0'
+date-released: '2025-10-22'
